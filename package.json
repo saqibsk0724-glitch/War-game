@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s01uba8",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0nt",
+  "name": "war-game",
+  "description": "",
   "scripts": {
     "start": "vite",
     "dev": "vite",
